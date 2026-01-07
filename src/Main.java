@@ -19,6 +19,7 @@ public class Main {
         scanner.close();
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MM-dd-yyyy");
         LocalDate birthday = LocalDate.parse(birthdayUser, formatter);
+        System.out.println();
 
         // Give original day of birth
         System.out.println("That means you were born on a " + birthday.getDayOfWeek());

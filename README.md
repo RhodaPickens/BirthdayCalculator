@@ -1,4 +1,4 @@
-#Birthday Calculator
+# Birthday Calculator
 
 A simple Java console application that takes in a date of birth and calculates birthday information.
 
@@ -21,13 +21,16 @@ A simple Java console application that takes in a date of birth and calculates b
 Welcome to the Magical Birthday Calculator!
 
 What's your birthday? (mm-dd-yyyy)
-> 06-02-2015
-That means you were born on a TUESDAY
+> 06-26-2014
 
-This year it falls on a TUESDAY
+That means you were born on a THURSDAY
 
-Since today is 2026-01-07, there's only 146 days until your next one!
+Your next birthday falls on a FRIDAY
 
-I bet you're excited to be turning 11 :)
+Since today is January 07, 2026, there's only 170 days until your next birthday!
 
-Note - this is a console based Java application using Scanner and LocalDate with no external libraries or frameworks required.
+I bet you're excited to be turning 12 :)
+
+### Note
+
+This is a console based Java application using Scanner and LocalDate with no external libraries or frameworks required.
